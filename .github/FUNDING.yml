@@ -1,8 +1,2 @@
 # These are supported funding model platforms
-
-github: EduApps-CDG
-community_bridge: # Replace with a single Community Bridge project-name e.g., cloud-foundry
-liberapay: # Replace with a single Liberapay username
-issuehunt: # Replace with a single IssueHunt username
-otechie: # Replace with a single Otechie username
 custom: [ 'https://www.linkedin.com/in/eduardo-p-gomez-b55763188', 'https://www.paypal.com/donate/?cmd=_donations&business=AC44X3D94K8NL&item_name=develop+more+incredible+tools&currency_code=BRL' ]
