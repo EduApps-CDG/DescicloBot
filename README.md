@@ -1,7 +1,7 @@
 # DescicloBot
-A [Discord](https://discord.gg) bot made mainly with [Discord.js](https://discord.js.org) made for [Desciclopédia](https://desciclopedia.org) ([Uncyclopedia](https://uncyclopedia.org))
+A [Discord](https://discord.gg) bot made mainly with [Discord.js](https://discord.js.org) made for [Desciclopédia](https://desciclopedia.org) ([Uncyclopedia](https://uncyclopedia.org)) you may want to see it working on [Repl.It](https://repl.it/@EduAppsCDG/DescicloBot#AI.js).
 
-Im not going to translate this bot, feel free to modify.
+Im not going to translate this bot, but feel free to modify or copy the functions inside [cmd folder](./cmd).
 
 ## Features
 | Option | Description |
@@ -20,3 +20,6 @@ Im not going to translate this bot, feel free to modify.
 | ban    | bans a user |
 | tempban    | temporarily bans a user |
 | config    | settings and services |
+
+## License
+All files from this project are licensed by [GPL-V3](./LICENSE).
