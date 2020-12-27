@@ -1,0 +1,24 @@
+{
+  "name": "MenacingVerticalModulus",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "@rodrigogs/xvideos": "^1.1.2",
+    "discord.js": "^12.3.1",
+    "express": "^4.17.1",
+    "follow-redirects": "^1.13.0",
+    "jsdom": "^16.4.0",
+    "request": "^2.88.2",
+    "somememe": "^1.0.2",
+    "xmldom": "^0.4.0",
+    "xmldom-qsa": "^1.0.3",
+    "xmlhttprequest": "^1.8.0"
+  }
+}
